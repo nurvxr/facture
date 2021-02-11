@@ -1,0 +1,17 @@
+--------------------------------------
+               Facture               
+--------------------------------------
+Nom et prenom : dorgham nour el amel
+Numero de telephone : 25698730
+Code : 123456789
+--------------------------------------
+Produit : CRAVITY - OFFICIAL LIGHT STICK
+Prix : 50
+Quantité : 2
+Montant : 100.0
+--------------------------------------
+Produit : A.C.E - OFFICIAL LIGHT STICK
+Prix : 30
+Quantité : 2
+Montant : 60.0
+--------------------------------------
